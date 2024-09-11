@@ -10,6 +10,12 @@ create a `python3.10` virtual environment by typing the following command in the
 python3.10 -m venv .venv
 ```
 
+activate it:
+
+```bash
+source .venv/bin/activate
+```
+
 Then install all dependencies by:
 
 ```bash
